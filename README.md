@@ -1,5 +1,7 @@
 # Ex-01-Linux-Commands
+# NAME : SHARUKESH R
 
+# REG NO: 212223220106
 
 ## Aim:
 
